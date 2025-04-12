@@ -8,6 +8,6 @@ def generate_case(yml_file_path):
 
 if __name__ == '__main__':
     data = generate_case('api_data.yml')
-    audio = data['audio']
+    audio = data['add_device']
     for v in audio :
         print(v)
