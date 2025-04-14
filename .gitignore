@@ -6,3 +6,5 @@ log
 testcases/test_go_server_demo/__pycache__
 testcases/__pycache__
 data/__pycache__
+test
+testcases/test_api_demo/__pycache__
