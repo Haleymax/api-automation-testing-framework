@@ -1,0 +1,8 @@
+﻿.idea
+pytest.ini
+config/__pycache__
+core/__pycache__
+log
+testcases/test_go_server_demo/__pycache__
+testcases/__pycache__
+data/__pycache__
